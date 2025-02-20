@@ -7,10 +7,10 @@ require("dotenv").config({path: "./config.env"})
 const { S3Client, PutObjectCommand, GetObjectCommand, DeleteObjectCommand } = require("@aws-sdk/client-s3")
 
 let awsRoutes = express.Router()
-const s3Bucket = "fullstackblogstorage"
+const s3Bucket = "mernprojectblogstorage"
 
 const s3Client = new S3Client( {
-    region: "us-east-2",
+    region: "us-east-1",
     credentials: {
         accessKeyId: process.env.AWS_ACCESS_KEY,
         secretAccessKey: process.env.AWS_SECRET_KEY
