@@ -32,6 +32,21 @@ Protected routes with JWT authentication
 
 RESTful API design
 
+## 🖼 Screenshots
+
+### Creating a Blog Post
+![Creating a Blog](assets/CreatingBlog.png)
+
+### Blog Display
+![Blog Page](assets/Blog.png)
+
+### AWS S3 Integration for Image Storage
+![AWS S3](assets/awsS3.png)
+
+### MongoDB Database Setup
+![MongoDB](assets/mongodb.png)
+
+
 💡 What I Learned
 
 Setting up a MERN stack project from scratch
@@ -89,7 +104,7 @@ Frontend:
 cd frontend
 npm start
 
-The app should now be running the backend on http://localhost:3000/ and the frontend on http://localhost:5173/.
+The app should now be running on http://localhost:3000/.
 
 🔗 Contributing
 
