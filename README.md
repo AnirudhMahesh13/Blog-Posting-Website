@@ -89,7 +89,7 @@ Frontend:
 cd frontend
 npm start
 
-The app should now be running on http://localhost:3000/.
+The app should now be running the backend on http://localhost:3000/ and the frontend on http://localhost:5173/.
 
 🔗 Contributing
 
