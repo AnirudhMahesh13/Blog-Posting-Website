@@ -1,8 +1,8 @@
-Blog Posting Website
+#Blog Posting Website
 
 This is a full-stack MERN (MongoDB, Express.js, React, Node.js) blog posting website that allows users to create, edit, and manage blog posts. The project showcases a dynamic frontend with React and a powerful backend with Node.js and Express, connected to MongoDB for data storage.
 
-🚀 Technologies Used
+###🚀 Technologies Used
 
 Frontend: React.js, React Router, Tailwind CSS, ShadCN
 
@@ -18,7 +18,7 @@ API Calls: Axios
 
 Version Control: Git & GitHub
 
-📌 Features
+###📌 Features
 
 User authentication (Login & Register)
 
@@ -30,7 +30,7 @@ Responsive UI with Tailwind CSS and ShadCN components
 
 Protected routes with JWT authentication
 
-RESTful API design
+###RESTful API design
 
 ## 🖼 Screenshots
 
@@ -47,7 +47,7 @@ RESTful API design
 ![MongoDB](assets/mongodb.png)
 
 
-💡 What I Learned
+###💡 What I Learned
 
 Setting up a MERN stack project from scratch
 
@@ -73,14 +73,14 @@ Debugging and troubleshooting CORS issues in a full-stack application
 
 Uploading and managing MongoDB data effectively
 
-📜 How to Run the Project
+###📜 How to Run the Project
 
-1️⃣ Clone the Repository
+##1️⃣ Clone the Repository
 
 git clone https://github.com/AnirudhMahesh13/Blog-Posting-Website.git
 cd Blog-Posting-Website
 
-2️⃣ Install Dependencies
+##2️⃣ Install Dependencies
 
 Backend:
 
@@ -92,7 +92,7 @@ Frontend:
 cd frontend
 npm install
 
-3️⃣ Run the Development Servers
+##3️⃣ Run the Development Servers
 
 Backend:
 
@@ -106,11 +106,11 @@ npm start
 
 The app should now be running the backend on http://localhost:3000/ and the frontend on http://localhost:5173/.
 
-🔗 Contributing
+##🔗 Contributing
 
 Feel free to fork the repository, create a branch, and submit a pull request if you have any improvements or suggestions!
 
-📧 Contact
+##📧 Contact
 
 For any questions or suggestions, feel free to reach out via GitHub.
 
