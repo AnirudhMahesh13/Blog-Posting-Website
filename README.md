@@ -34,11 +34,11 @@ RESTful API design
 
 ## 🖼 Screenshots
 
-### Creating a Blog Post
-![Creating a Blog](assets/CreatingBlog.png)
-
 ### Blog Display
 ![Blog Page](assets/Blog.png)
+
+### Creating a Blog Post
+![Creating a Blog](assets/CreatingBlog.png)
 
 ### AWS S3 Integration for Image Storage
 ![AWS S3](assets/awsS3.png)
